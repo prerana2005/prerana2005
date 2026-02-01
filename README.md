@@ -37,7 +37,7 @@ me.say_hi()
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prerana_mp">
+  <a href="https://www.linkedin.com/in/prerana-mp-4a8806304/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:preranamp2005@gmail.com">
