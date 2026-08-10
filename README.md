@@ -20,8 +20,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=prerana2005&label=Profile%20Views&color=6C63FF&style=flat-square" />
-
 </div>
 
 ---
