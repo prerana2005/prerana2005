@@ -14,7 +14,7 @@ class ComputerScienceStudent:
         self.year = "3rd Year"
         self.major = "Computer Science"
         self.location = "Bengaluru, India"
-        self.currently_learning = ["Generative AI", "Machine Learning", "Data Science"]
+        self.currently_learning = ["Generative AI", "Machine Learning on Graphs", "Distributed Systems"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
